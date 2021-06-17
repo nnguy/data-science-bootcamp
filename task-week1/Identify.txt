@@ -1,0 +1,5 @@
+Please enter your details:
+
+Name: Nelson Nguy
+NETID: NN1248
+Favorite book and author: Ready Player One by Ernest Cline
